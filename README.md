@@ -18,6 +18,7 @@ Requirement:
      - View Available Movies with Price
      - View Available Events with Price
      - Booking Movies/Events
+     - Invoice
      - Payment System
      - Notification
     + Movie Theater
@@ -42,3 +43,4 @@ Requirement:
       - Notification Manager
       - Availability Manager
       - Pricing strategy
+      - Invoice Generation
